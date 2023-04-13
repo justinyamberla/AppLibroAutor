@@ -1,0 +1,22 @@
+.nav{
+    background-color: #1e1e1e;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+    justify-content: space-around;
+}
+
+.nav > div{
+    display: flex;
+}
+
+.link{
+    display: block;
+    padding: 20px 15px;
+}
+
+.link:hover{
+    background-color: #58FF01FF;
+    color: black;
+}

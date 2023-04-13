@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "nombre": "Justin Yamberla Marcillo",
+    "direccion": "Otavalo",
+    "edad": 23,
+    "hijos": 0,
+    "libros": [
+      {
+        "id": "1",
+        "titulo": "Libro Con Otro Nombre",
+        "numeroPaginas": 257,
+        "genero": "Terror",
+        "fechaPublicacion": "Junio 2020"
+      },
+      {
+        "id": "2",
+        "titulo": "El Psicoanalista",
+        "numeroPaginas": 307,
+        "genero": "Thriller",
+        "fechaPublicacion": "Junio 2019"
+      }
+    ]
+  },
+  {
+    "id": "id2",
+    "nombre": "Alexis Marcillo",
+    "direccion": "Quito",
+    "edad": 35,
+    "hijos": 2,
+    "libros": [
+      {
+        "id": "1",
+        "titulo": "Libro 1 del segundo autor",
+        "numeroPaginas": 200,
+        "genero": "Terror",
+        "fechaPublicacion": "Junio 2020"
+      }
+    ]
+  },
+  {
+    "id": "abc",
+    "nombre": "Juanito Pepito",
+    "direccion": "Ibarra",
+    "edad": 26,
+    "hijos": 4,
+    "libros": [
+      {
+        "id": "1",
+        "titulo": "Libro 1 del tercer autor",
+        "numeroPaginas": 200,
+        "genero": "Terror",
+        "fechaPublicacion": "Junio 2020"
+      }
+    ]
+  },
+  {
+    "id": "xyz",
+    "nombre": "Wordip",
+    "direccion": "Ilumán",
+    "edad": 21,
+    "hijos": 1,
+    "libros": []
+  }
+]
